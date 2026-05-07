@@ -1,7 +1,7 @@
 # OFEL-ENSOLL
 # ENSO Effects on Pacific Tuna Distribution and Abundance
 
-Code for the manuscript submitted to *Global Change Biology*.
+Code for the manuscript submitted.
 
 ## Overview
 
